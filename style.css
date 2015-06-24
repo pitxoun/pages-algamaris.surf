@@ -3,10 +3,10 @@ body {
 	font-family: Raleway, sans-serif;
 }
 
-a{
-	color:EB9642;
+#wrapper a{
+	color:white;
 	text-decoration: none;
-	font-size: 24px;
+	font-size: 20px;
 }
 
 a:hover {
@@ -42,8 +42,8 @@ img:hover{
 #footer {
 	background-color: #6ACDBC;
 	color:white;
-	padding-top: 3em;
-	padding-bottom: 3em;
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
 #footer a {
