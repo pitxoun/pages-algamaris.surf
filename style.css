@@ -129,8 +129,8 @@ img:hover{
 	height:1em;
 }
 
-.vincent {
-	background-image: url("images/photos_surfeurs.png");
+.photos {
+	background-image: url("images/photos-surf.png");
 	height: 316px;
 	width: 400px;
 	background-size: cover;
